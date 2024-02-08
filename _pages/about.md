@@ -11,8 +11,8 @@ redirect_from:
 I am Bo, a Ph.D. candidate at Nanjing University, [School of Earth Sciences and Engineering](https://es.nju.edu.cn/main.htm). Currently, I am working in [Dr. Kai Gu's group](https://es.nju.edu.cn/gk1/list.htm) and with [ACEI Institute](https://es.nju.edu.cn/acei/main.psp). I will be joining the School of Earth Sciences and Engineering at Hohai University as an Assistant Professor in Fall 2024, focusing on shallow subsurface environment observation and evaluation. For sustainability, I focus on promoting the large-scale utilization of shallow geothermal energy in heating and cooling.
 
 ### Education
-- Ph.D. student: Geological Resources and Geological Engineering at Nanjing University (2020-present)
-- M.S. student: Geological Engineering at Nanjing University (2018-2020)
+- Ph.D.: Geological Resources and Geological Engineering at Nanjing University (2020-present)
+- M.S.: Geological Engineering at Nanjing University (2018-2020, pursue doctoral study in advance)
 - B.S.: Engineering Geology at Jilin University (2013-2017)
 
 <figure>
