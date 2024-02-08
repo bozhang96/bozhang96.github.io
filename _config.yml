@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Bo Zhang"
-  avatar           : "/images/personal-photo.jpg"
-  bio              : "Ph.D. candidate at Nanjing University, Visting student researcher at Stanford University"
-  location         : "Palo Alto, CA"
+  avatar           : "personal-photo.jpg"
+  bio              : "Ph.D. candidate at Nanjing University"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Bru85qAAAAAJ&hl=en"
