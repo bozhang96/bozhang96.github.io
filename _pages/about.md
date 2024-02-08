@@ -14,7 +14,6 @@ I am Bo, a Ph.D. candidate at Nanjing University, [School of Earth Sciences and 
 - Ph.D. student: Geological Resources and Geological Engineering at Nanjing University (2020-present)
 - M.S. student: Geological Engineering at Nanjing University (2018-2020)
 - B.S.: Engineering Geology at Jilin University (2013-2017)
-[ATRT](https://bozhang96.github.io/images/atrt_changzhiou.jpg)
 
 <figure>
    <img src="/images/atrt_changzhou.jpg" alt="ATRT at Changzhou City">
