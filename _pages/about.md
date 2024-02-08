@@ -17,7 +17,7 @@ I am Bo, a Ph.D. candidate at Nanjing University, [School of Earth Sciences and 
 [ATRT](https://bozhang96.github.io/images/atrt_changzhiou.jpg)
 
 <figure>
-   <img src="https://bozhang96.github.io/images/atrt_changzhiou.jpg" alt="ATRT at Changzhou City">
+   <img src="/images/atrt_changzhou.jpg" alt="ATRT at Changzhou City">
    <figcaption>Groundwater flow rate observation with ATRT (actively heated fiber optics based thermal response test) in Changzhou City, Summer 2022</figcaption>
 </figure>
 
