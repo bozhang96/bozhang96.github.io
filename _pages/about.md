@@ -20,8 +20,8 @@ I am Bo, a Ph.D. candidate at Nanjing University, [School of Earth Sciences and 
    <figcaption>Bo with ATRT (actively heated fiber optics based thermal response test) in Yangzi river bank, Summer 2021</figcaption>
 </figure>
 
-### An overview of my research and teaching
-I’m a geostatistician and hydrogeologist specializing in integrating hydrologic modeling and multiscale datasets, such as geophysical surveys and in-situ hydrologic measurements. My research explores the impacts of various uncertain factors, from bedrock to canopy to climate disturbances, on watersheds and aquifers. I also develop machine learning and Bayesian inference methods to calibrate hydrologic models and quantify their uncertainty. Additionally, I’m committed to teaching data science to geoscientists, showcased in our new textbook, “**[Data Science for the Geosciences](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)**,” published by Cambridge University Press. 
+### An overview of my research and interests
+I’m an engineering geology researcher specializing in shallow subsurface environment observation and evaluation. The observation factors mainly include ground temperature, thermal conductivity， and unsaturated or saturated water movement observation. The evaluation based on the geostatistic aims to model the continuous distribution with always limited observation. My research explores efficient in-situ observation methods and regional modeling frameworks for reliable evaluation. With sufficient observation and  evaluation, I am interested in the forming mechanisms of the complex shallow subsurface environment under both nature and humanity from multiple scales.
 
 <!-- A data-driven personal website
 ======
