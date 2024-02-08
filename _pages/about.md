@@ -21,7 +21,7 @@ I am Bo, a Ph.D. candidate at Nanjing University, [School of Earth Sciences and 
 </figure>
 
 ### An overview of my research and interests
-I’m an engineering geology researcher specializing in shallow subsurface environment observation and evaluation. The observation factors mainly include ground temperature, thermal conductivity， and unsaturated or saturated water movement observation. The evaluation based on the geostatistic aims to model the continuous distribution with always limited observation. My research explores efficient in-situ observation methods and regional modeling frameworks for reliable evaluation. With sufficient observation and  evaluation, I am interested in the forming mechanisms of the complex shallow subsurface environment under both nature and humanity from multiple scales.
+I’m an engineering geology researcher specializing in shallow subsurface environment observation and evaluation. The observation factors mainly include ground temperature, thermal conductivity, and unsaturated or saturated water movement observation. The evaluation based on the geostatistic aims to model the continuous distribution with always limited observation. My research explores efficient in-situ observation methods and regional modeling frameworks for reliable evaluation. With sufficient observation and  evaluation, I am interested in the forming mechanisms of the complex shallow subsurface environment under both nature and humanity from multiple scales.
 
 <!-- A data-driven personal website
 ======
