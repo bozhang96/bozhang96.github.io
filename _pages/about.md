@@ -1,14 +1,27 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am here！ 😄
+I am Bo, a Ph.D. candidate at Nanjing University, [School of Earth Sciences and Engineering](https://es.nju.edu.cn/main.htm). Currently, I am working in [Dr. Kai Gu's group](https://es.nju.edu.cn/gk1/list.htm) and with [ACEI Institute](https://es.nju.edu.cn/acei/main.psp). I will be joining the School of Earth Sciences and Engineering at Hohai University as an Assistant Professor in Fall 2024, focusing on shallow subsurface environment observation and evaluation. For sustainability, I focus on promoting the large-scale utilization of shallow geothermal energy in heating and cooling.
+
+### Education
+- Ph.D. student: Geological Resources and Geological Engineering at Nanjing University (2020-present)
+- M.S. student: Geological Engineering at Nanjing University (2018-2020)
+- B.S.: Engineering Geology at Jilin University (2013-2017)
+
+<figure>
+   <img src="/images/Lijing_tTEM.jpg" alt="Lijing tTEM at Denmark">
+   <figcaption>Bo with ATRT (actively heated fiber optics based thermal response test) in Yangzi river bank, Summer 2021</figcaption>
+</figure>
+
+### An overview of my research and teaching
+I’m a geostatistician and hydrogeologist specializing in integrating hydrologic modeling and multiscale datasets, such as geophysical surveys and in-situ hydrologic measurements. My research explores the impacts of various uncertain factors, from bedrock to canopy to climate disturbances, on watersheds and aquifers. I also develop machine learning and Bayesian inference methods to calibrate hydrologic models and quantify their uncertainty. Additionally, I’m committed to teaching data science to geoscientists, showcased in our new textbook, “**[Data Science for the Geosciences](https://www.cambridge.org/highereducation/books/data-science-for-the-geosciences/64E10197819920B0B5F36472B3B872C4?utm_campaign=shareaholic&utm_medium=copy_link&utm_source=bookmark)**,” published by Cambridge University Press. 
 
 <!-- A data-driven personal website
 ======
