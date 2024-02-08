@@ -16,8 +16,8 @@ I am Bo, a Ph.D. candidate at Nanjing University, [School of Earth Sciences and 
 - B.S.: Engineering Geology at Jilin University (2013-2017)
 
 <figure>
-   <img src="/images/Lijing_tTEM.jpg" alt="Lijing tTEM at Denmark">
-   <figcaption>Bo with ATRT (actively heated fiber optics based thermal response test) in Yangzi river bank, Summer 2021</figcaption>
+   <img src="/images/atrt_changzhiou.jpg" alt="Bo ATRT at Changzhou City">
+   <figcaption>Groundwater flow rate observation with ATRT (actively heated fiber optics based thermal response test) in Changzhou City, Summer 2022</figcaption>
 </figure>
 
 ### An overview of my research and interests
